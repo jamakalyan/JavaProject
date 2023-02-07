@@ -1,0 +1,13 @@
+public class main {
+     Public static void main String(args[]) {
+          System.out.println("Hello World!);
+           }
+}
+
+int a=10:;
+int b =20;
+int [] x = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+System.out.println(a);
+System.out.println(b);
+System.out.println(x[3]);
+ 
